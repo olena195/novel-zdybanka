@@ -1,0 +1,42 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build VN project
+        id: build
+        uses: ProjectAliceDev/renpy-build-action@master
+        with:
+          sdk-version: '8.2.1'
+          project-dir: '.'
+          package: pc
+        env:
+          SDL_AUDIODRIVER: dummy
+          SDL_VIDEODRIVER: dummy
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name:  ${{ steps.build.outputs.version }}
+          name: ${{ steps.build.outputs.version }}
+          files: ${{ steps.build.outputs.dir }}/*
+
+      - run: curl -X POST ${{ secrets.BUILD_WEBSITE_WEBHOOK }}
