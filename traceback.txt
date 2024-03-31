@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 147, in script call
+    call drink_menuRR
+  File "game/script.rpy", line 147, in script call
+    call drink_menuRR
+ScriptError: could not find label 'drink_menuRR'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 147, in script call
+    call drink_menuRR
+  File "C:\Users\kozac\OneDrive\Документы\renpy-8.1.3-sdk\renpy\ast.py", line 1416, in execute
+    rv = renpy.game.context().call(label, return_site=self.next.name)
+  File "game/script.rpy", line 147, in script call
+    call drink_menuRR
+  File "C:\Users\kozac\OneDrive\Документы\renpy-8.1.3-sdk\renpy\script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'drink_menuRR'.
+
+Windows-10-10.0.22631 AMD64
+Ren'Py 8.2.1.24030407
+Zdybanka 1.0
+Sun Mar 31 15:04:35 2024
