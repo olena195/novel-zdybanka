@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 763: Menu does not contain any choices.
-    menu:
-         ^
+File "game/script.rpy", line 130: expected statement.
+    st 10_1
+           ^
+
+File "game/script.rpy", line 134: expected statement.
+    st 10_2
+           ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Sun Mar 31 15:31:54 2024
+Wed Jul  3 23:45:21 2024
