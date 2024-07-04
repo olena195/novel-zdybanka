@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 130: expected statement.
-    st 10_1
-           ^
-
-File "game/script.rpy", line 134: expected statement.
-    st 10_2
-           ^
+File "game/script.rpy", line 186: expected 'image_name_component' not found.
+    show
+        ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Wed Jul  3 23:45:21 2024
+Thu Jul  4 20:22:20 2024
