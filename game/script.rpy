@@ -884,35 +884,44 @@ label chapter1:
     play sound "payment_error.mp3" volume 2
     show st 20_3
     Iv "От чортівня! Мабуть, замовник таки ще не оплатив проєкт."
+    show st 13
     Iv "Нічого, нічого. У мене є готівка."
     Iv "Зараз, кілька секунд."
-    # Ілюстрація з гаманцем
+    show st 21_2
     St "…"
     Iv "Монетки теж гроші!"
     St "Тобі точно не потрібна допомога?"
+    show st 21_5
     Iv "Взагалі жодних проблем. Тільки у замовника, якого завтра чекає невеличкий скандал."
     Iv "Нарешті позбавлюсь від цієї дрібноти. Так, скільки там по рахунку?"
     St "Ти зараз схожий на дракона, який сидить на купі золота і нікого до неї не підпускає."
+    show st 21_3
     Iv "Ти дивись, а то ще почують і потім десь за рогом популярно нам пояснять, чому подібні стереотипи шкодять їм у реальному житті."
     St "Цікаве вийде закінчення дня."
+    show st 21_1
     Iv "У тебе є знайомі травматологи?"
     St "Звісно є, але я б не хотів потрапити до них на прийом. Вчились вони так собі."
     Iv "Тепер і мені треба контакти, щоб точно до них не потрапити."
+    show st 21_2
     Iv "Тридцять чотири, тридцять п’ять… А стоп! Чи ні, не стоп… Все заново."
     Iv "Не дивись так на мене!"
     St "Та хоч три години рахуй свої гроші, я нікуди не спішу. І вуха у мене не болять."
+    show st 21_5
     Iv "…"
     St "…"
-    # Ілюстрація з піснею на беку
+    show st 21_2
     Iv "Десять… Двадцять…"
     Iv "Чому ти так на мене дивишся?"
     St "Просто цікаво, що буде, якщо я зараз повторю твої дії кілька хвилин тому."
+    show st 21_3
     Iv "Тоді ми звідси ніколи не вийдемо."
     Iv "Так, не заважай. Або заважай, але через пару хвилин."
     Iv "…"
+    show st 21_2
     Iv "П’ятдесят три… Ага…"
     Iv "Тридцять… Сорок… Все! Ну от, жодних проблем!"
     St "Можна подумати, що ти пограбував якогось волоцюгу."
+    show st 8
     Iv "О, маю на цю тему прикольну історію! Зараз розповім…"
     Iv "Йдемо?"
 
@@ -1004,11 +1013,36 @@ label the_end_2:
     jump end_game_transition
 
 label the_end_3:
-
-    "TODO: THE END 3"
+    play music "night-jazz-111372.mp3"
+    scene bg the end 1
+    scene bg the end 2
+    scene bg the end 3
+    scene bg the end 4
+    scene bg the end 5
+    scene bg the end 6
+    scene bg the end 7
+    scene bg the end 8
+    scene bg the end 9
+    scene bg the end 10
+    scene bg the end 11
+    scene bg the end 12
+    scene bg the end 13
+    scene bg the end 14
+    scene bg the end 15
     jump end_game_transition
 
-
+label the_end_4:
+    play music "night-jazz-111372.mp3"
+    scene bg the end 1
+    scene bg the end 2
+    scene bg the end 3
+    scene bg the end 4
+    scene bg the end 5
+    scene bg the end 6
+    scene bg the end 7
+    scene bg the end 13
+    scene bg the end 14
+    scene bg the end 15
 label end_game_transition:
     "(END)"
     return
