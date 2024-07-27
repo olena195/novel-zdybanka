@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 1025: expected statement.
-    (кінець)
-            ^
+File "game/script.rpy", line 983: Line is indented, but the preceding ATL statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    ypos -100
+    ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Sat Jul 27 19:21:26 2024
+Sat Jul 27 22:54:01 2024

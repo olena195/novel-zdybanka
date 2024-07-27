@@ -1,28 +1,42 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While running game code:
-  File "game/script.rpy", line 66, in script
-    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
-  File "game/script.rpy", line 66, in <module>
-    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
-TypeError: MoveTransition() got an unexpected keyword argument 'dist'
+Compiling ATL code at game/script.rpy:981
+  File "game/script.rpy", line 977, in script
+    show a07:
+Exception: Could not evaluate expression 'repeat' when compiling ATL.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 66, in script
-    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
-  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 1356, in execute
-    trans = renpy.python.py_eval(self.expr)
-  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\python.py", line 1209, in py_eval
-    return py_eval_bytecode(code, globals, locals)
-  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\python.py", line 1202, in py_eval_bytecode
-    return eval(bytecode, globals, locals)
-  File "game/script.rpy", line 66, in <module>
-    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
-TypeError: MoveTransition() got an unexpected keyword argument 'dist'
+  File "game/script.rpy", line 977, in script
+    show a07:
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 1113, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 1076, in show_imspec
+    renpy.config.show(name,
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\exports.py", line 765, in show
+    sls.add(layer, img, key, zorder, behind, at_list=at_list, name=name, atl=atl, default_transform=default_transform, transient=transient)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\scenelists.py", line 474, in add
+    thing.visit_all(lambda d : None)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\displayable.py", line 421, in visit_all
+    for d in self.visit():
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\atl.py", line 764, in visit
+    block = self.compile()
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\atl.py", line 671, in compile
+    block = self.atl.compile(self.context)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\atl.py", line 873, in compile
+    statements = [ i.compile(ctx) for i in self.statements ]
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\atl.py", line 873, in <listcomp>
+    statements = [ i.compile(ctx) for i in self.statements ]
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\atl.py", line 873, in compile
+    statements = [ i.compile(ctx) for i in self.statements ]
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\atl.py", line 873, in <listcomp>
+    statements = [ i.compile(ctx) for i in self.statements ]
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\atl.py", line 1234, in compile
+    raise Exception("Could not evaluate expression %r when compiling ATL." % expr)
+Exception: Could not evaluate expression 'repeat' when compiling ATL.
 
 Windows-10-10.0.19045 AMD64
 Ren'Py 8.2.1.24030407
 Zdybanka 1.0
-Sat Jul 27 17:23:45 2024
+Sat Jul 27 22:47:58 2024

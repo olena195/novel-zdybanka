@@ -929,35 +929,16 @@ label chapter1:
         "Так":
             pass
 
-    jump end_game_transition
+    if luck_points > 30:
+        jump the_end_3
+    else:
+        jump the_end_4
 
 
 
 
 
-image crringe_animw:
-    "images/a01.png"
-    pause 0.5
-    "images/a02.png"
-    pause 0.5
-    "images/a03.png"
-    pause 0.3
-    "images/a04.png"
-    pause 0.3
-    "images/a05.png"
-    pause 0.3
-    "images/a06.png"
-    pause 0.3
-    "images/a07.png"
-    pause 0.5
-    "images/a08.png"
-    pause 0.5
-    "images/a09.png"
-    pause 0.5
-    "images/a10.png"
-    pause 0.5
-    "images/a11.png"
-    pause 0.5
+
 
 
 
@@ -972,11 +953,72 @@ label the_end_cringe:
     show iv 2
     St "Йой, вже так пізно!"
     St "Бувай!"
-    scene crringe_animw
+    image bg black = "#070000"
+
+    scene bg black
+    show a01
+    pause 0.5
+    scene bg black
+    show a02
+    pause 0.5
+
+    scene bg black
+    show a0 at center:
+        zoom 0.9
+
+    pause 0.2
+    scene bg black
+    show a0 at center:
+        zoom 0.8
+
+    pause 0.2
+    scene bg black
+    show a0 at center:
+        zoom 0.7
+
+    pause 0.5
+
+    hide a02
+    pause 0.3
+    scene bg black
+    show a04
+    pause 0.3
+    scene bg black
+    show a05
+    pause 0.3
+    scene bg black
+    show a06
+    pause 0.3
+
+    scene bg black
+    show a07:
+        xpos 0
+        ypos 0
+        parallel:
+            block:
+                ease 0.3:
+                    yoffset -100
+                ease 0.3:
+                    yoffset 100
+                repeat
+        parallel:
+            pause 1
+            ease 6.0:
+                yalign -1.0
+                xpos -1.0
+                zoom -1.0
+        
+
+
+    pause 5
+    scene bg black with dissolve
+
+    image big_text = ParameterizedText(xalign=0.5, yalign=0.5, size=120, color="#ffffff")
+
+    show big_text "Кінець" with Dissolve(2)
+
     pause
-    hide crringe_animw
-    
-    jump end_game_transition
+    return
 
 label the_end_2:
     show st 22
@@ -1014,35 +1056,69 @@ label the_end_2:
 
 label the_end_3:
     play music "night-jazz-111372.mp3"
-    scene bg the end 1
-    scene bg the end 2
-    scene bg the end 3
-    scene bg the end 4
-    scene bg the end 5
-    scene bg the end 6
-    scene bg the end 7
-    scene bg the end 8
-    scene bg the end 9
-    scene bg the end 10
-    scene bg the end 11
-    scene bg the end 12
-    scene bg the end 13
-    scene bg the end 14
-    scene bg the end 15
+    scene bg the end 1 with dissolve
+    pause 5.0
+    scene bg the end 2 with dissolve
+    pause 5.0
+    scene bg the end 3 with dissolve
+    pause 5.0
+    scene bg the end 4 with dissolve
+    pause 5.0
+    scene bg the end 5 with dissolve
+    pause 5.0
+    scene bg the end 6 with dissolve
+    pause 5.0
+    scene bg the end 7 with dissolve
+    pause 5.0
+    scene bg the end 8 with dissolve
+    pause 5.0
+    scene bg the end 9 with dissolve
+    pause 5.0
+    scene bg the end 10 with dissolve
+    pause 5.0
+    scene bg the end 11 with dissolve
+    pause 5.0
+    scene bg the end 12 with dissolve
+    pause 5.0
+    scene bg the end 13 with dissolve
+    pause 5.0
+    scene bg the end 14 with dissolve
+    pause 5.0
+    scene bg the end 15 with dissolve
+    pause 5.0
     jump end_game_transition
 
 label the_end_4:
     play music "night-jazz-111372.mp3"
-    scene bg the end 1
-    scene bg the end 2
-    scene bg the end 3
-    scene bg the end 4
-    scene bg the end 5
-    scene bg the end 6
-    scene bg the end 7
-    scene bg the end 13
-    scene bg the end 14
-    scene bg the end 15
+    scene bg the end 1 with dissolve
+    pause 5.0
+    scene bg the end 2 with dissolve
+    pause 5.0
+    scene bg the end 3 with dissolve
+    pause 5.0
+    scene bg the end 4 with dissolve
+    pause 5.0
+    scene bg the end 5 with dissolve
+    pause 5.0
+    scene bg the end 6 with dissolve
+    pause 5.0
+    scene bg the end 7 with dissolve
+    pause 5.0
+    scene bg the end 13 with dissolve
+    pause 5.0
+    scene bg the end 14 with dissolve
+    pause 5.0
+    scene bg the end 15 with dissolve
+    pause 5.0
+
+
 label end_game_transition:
-    "(END)"
+    scene bg the end 15 with dissolve:
+        blur 90
+
+    image big_text = ParameterizedText(xalign=0.5, yalign=0.5, size=120, color="#ffffff")
+
+    show big_text "Кінець" with Dissolve(2)
+
+    pause
     return
