@@ -90,9 +90,66 @@ define gui.title_text_size = 75
 
 ## Головне та ігрове меню ######################################################
 
+image main_menu_animated:
+    "gui/main_menu_animated/01.jpg"
+    pause 0.2
+    "gui/main_menu_animated/02.jpg"
+    pause 0.2
+    "gui/main_menu_animated/03.jpg"
+    pause 0.2
+    "gui/main_menu_animated/04.jpg"
+    pause 0.2
+    "gui/main_menu_animated/05.jpg"
+    pause 0.2
+    "gui/main_menu_animated/06.jpg"
+    pause 0.2
+    "gui/main_menu_animated/07.jpg"
+    pause 0.2
+    "gui/main_menu_animated/08.jpg"
+    pause 0.2
+    "gui/main_menu_animated/09.jpg"
+    pause 0.2
+    "gui/main_menu_animated/10.jpg"
+    pause 0.2
+    "gui/main_menu_animated/11.jpg"
+    pause 0.2
+    "gui/main_menu_animated/12.jpg"
+    pause 0.2
+    "gui/main_menu_animated/13.jpg"
+    pause 0.2
+    "gui/main_menu_animated/14.jpg"
+    pause 0.2
+    "gui/main_menu_animated/15.jpg"
+    pause 0.2
+    "gui/main_menu_animated/16.jpg"
+    pause 0.2
+    "gui/main_menu_animated/17.jpg"
+    pause 0.2
+    "gui/main_menu_animated/18.jpg"
+    pause 0.2
+    "gui/main_menu_animated/19.jpg"
+    pause 0.2
+    "gui/main_menu_animated/20.jpg"
+    pause 0.2
+    "gui/main_menu_animated/21.jpg"
+    pause 0.2
+    "gui/main_menu_animated/22.jpg"
+    pause 0.2
+    "gui/main_menu_animated/23.jpg"
+    pause 0.2
+    "gui/main_menu_animated/24.jpg"
+    pause 0.2
+    "gui/main_menu_animated/25.jpg"
+    pause 0.2
+    "gui/main_menu_animated/26.jpg"
+    pause 0.2
+    repeat
+
+
+
 ## Зображення, які використовуються для головного та ігрового меню.
-define gui.main_menu_background = "gui/main_menu.png"
-define gui.game_menu_background = "gui/game_menu.png"
+define gui.main_menu_background = "main_menu_animated"
+define gui.game_menu_background = "main_menu_animated"
 
 
 ## Діалог ######################################################################

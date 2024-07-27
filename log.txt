@@ -1,55 +1,14 @@
-2024-07-10 19:02:31 UTC
+2024-07-27 10:53:12 UTC
 Windows-10-10.0.19045
 Ren'Py 8.2.1.24030407
 
-Early init took 0.08s
+Early init took 0.09s
 Loading error handling took 0.04s
-Loading script took 0.28s
-Loading save slot metadata took 0.06s
+Loading script took 0.22s
+Loading save slot metadata took 0.04s
 Loading persistent took 0.00s
-Running init code took 0.15s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.03s
-Index archives took 0.00s
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.04s
-DPI scale factor: 2.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.03s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.10s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.11s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2880, 1800)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon Pro 450'
-Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 95.16s
-Loading error handling took 0.03s
-Loading script took 0.35s
-Loading save slot metadata took 0.03s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
+Running init code took 0.06s
+Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.03s
 Index archives took 0.00s
@@ -63,15 +22,287 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.06s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 88.06s
+Loading error handling took 0.03s
+Loading script took 0.16s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 422.05s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.01s
 Save screen analysis took 0.02s
-Prepare screens took 0.14s
+Prepare screens took 0.13s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
 Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 437.83s
+Loading error handling took 0.03s
+Loading script took 0.26s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 925: end of line expected.
+    show Koridor_Animation_2.gif
+                            ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.14s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 557.76s
+Loading error handling took 0.03s
+Loading script took 0.16s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 576.68s
+Loading error handling took 0.03s
+Loading script took 0.31s
+Loading save slot metadata took 0.09s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 925: expected 'image_name_component' not found.
+    show "Koridor_Animation_2.gif"
+         ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 590.47s
+Loading error handling took 0.02s
+Loading script took 0.24s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 925: expected 'image_name_component' not found.
+    show "Koridor_Animation_2"
+         ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 592.14s
+Loading error handling took 0.02s
+Loading script took 0.25s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 925: expected 'image_name_component' not found.
+    show "Koridor_Animation_2"
+         ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 594.71s
+Loading error handling took 0.02s
+Loading script took 0.22s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 925: expected 'image_name_component' not found.
+    show "Koridor_Animation_2"
+         ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
 Interface start took 0.10s
 
 Initializing gl2 renderer:
@@ -84,13 +315,86 @@ Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.1454
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
 Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Resetting cache.
+Early init took 596.96s
+Loading error handling took 0.02s
+Loading script took 0.23s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 925: expected 'image_name_component' not found.
+    show "Koridor_Animation_2"
+         ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 218.35s
-Loading error handling took 0.03s
-Loading script took 0.43s
+Early init took 5017.46s
+Loading error handling took 0.04s
+Loading script took 0.27s
 Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 924: expected 'image_name_component' not found.
+    image
+         ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5020.12s
+Loading error handling took 0.04s
+Loading script took 0.28s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 924: expected 'image_name_component' not found.
+    image
+         ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5027.76s
+Loading error handling took 0.03s
+Loading script took 0.31s
+Loading save slot metadata took 0.03s
 Loading persistent took 0.00s
 Running init code took 0.04s
 Loading analysis data took 0.02s
@@ -98,10 +402,94 @@ Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.03s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
-Dump and make backups took 0.07s
+Dump and make backups took 0.06s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.09s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5041.92s
+Loading error handling took 0.03s
+Loading script took 0.36s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.19s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5087.04s
+Loading error handling took 0.07s
+Loading script took 0.45s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
 DPI scale factor: 2.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
@@ -112,7 +500,7 @@ Build styles took 0.01s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.03s
-Prepare screens took 0.13s
+Prepare screens took 0.14s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
@@ -126,14 +514,140 @@ Vendor: "b'ATI Technologies Inc.'"
 Renderer: b'AMD Radeon Pro 450'
 Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
 Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
 Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Resetting cache.
+Early init took 5217.35s
+Loading error handling took 0.02s
+Loading script took 0.34s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5549.00s
+Loading error handling took 0.03s
+Loading script took 0.34s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.15s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.11s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.05s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5563.16s
+Loading error handling took 0.03s
+Loading script took 0.51s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
 Maximum texture size: 4096x4096
 
 Full traceback:
-  File "game/script.rpy", line 833, in script
-    Iv "Намагаються вигнати всіх перевертнів чи що?"
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 929, in script
+    "(CRENGE END)"
   File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 2557, in execute
     Say.execute(self)
   File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 615, in execute
@@ -179,6 +693,127 @@ Full traceback:
     rend = render(child, w, h, st, at)
   File "render.pyx", line 170, in renpy.display.render.render
   File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\transform.py", line 957, in render
+    return RenderTransform(self).render(width, height, st, at)
+  File "accelerator.pyx", line 978, in renpy.display.accelerator.RenderTransform.render
+  File "accelerator.pyx", line 413, in renpy.display.accelerator.RenderTransform.render_child
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 626, in render
+    return cache.get(self, render=True)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 309, in get
+    surf = image.load()
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 761, in load
+    raise e
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 711, in load
+    filelike = renpy.loader.load(self.filename, directory="images")
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\loader.py", line 663, in load
+    raise Exception("Backslash in filename, use '/' instead: %r" % name)
+Exception: Backslash in filename, use '/' instead: 'game\\images\x0701.png'
+
+While loading <renpy.display.im.Image object ('game\\images\x0701.png') at 0x000000000563fc10>:
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 929, in script
+    "(CRENGE END)"
+Exception: Backslash in filename, use '/' instead: 'game\\images\x0701.png'
+Resetting cache.
+Early init took 5585.10s
+Loading error handling took 0.02s
+Loading script took 0.30s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.23s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 929, in script
+    "(CRENGE END)"
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 2557, in execute
+    Say.execute(self)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 615, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\exports.py", line 1493, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\character.py", line 1394, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\character.py", line 1045, in do_display
+    display_say(who,
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\character.py", line 741, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\core.py", line 2165, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\core.py", line 2818, in interact_core
+    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\core.py", line 1352, in draw_screen
+    surftree = renpy.display.render.render_screen(
+  File "render.pyx", line 486, in renpy.display.render.render_screen
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\layout.py", line 900, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\layout.py", line 900, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\layout.py", line 900, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\transform.py", line 957, in render
+    return RenderTransform(self).render(width, height, st, at)
+  File "accelerator.pyx", line 978, in renpy.display.accelerator.RenderTransform.render
+  File "accelerator.pyx", line 413, in renpy.display.accelerator.RenderTransform.render_child
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\image.py", line 513, in render
+    return wrap_render(self.target, width, height, st, at)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\image.py", line 316, in wrap_render
+    rend = render(child, w, h, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\transform.py", line 957, in render
+    return RenderTransform(self).render(width, height, st, at)
+  File "accelerator.pyx", line 978, in renpy.display.accelerator.RenderTransform.render
+  File "accelerator.pyx", line 413, in renpy.display.accelerator.RenderTransform.render_child
+  File "render.pyx", line 260, in renpy.display.render.render
   File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 626, in render
     return cache.get(self, render=True)
   File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 309, in get
@@ -189,17 +824,2163 @@ Full traceback:
     filelike = renpy.loader.load(self.filename, directory="images")
   File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\loader.py", line 672, in load
     raise IOError("Couldn't find file '%s'." % name)
-OSError: Couldn't find file 'images/bg scene1.PNG'.
+OSError: Couldn't find file 'game/images/a01.png'.
 
-While loading <renpy.display.im.Image object ('images/bg scene1.PNG') at 0x000000000474deb0>:
-  File "game/script.rpy", line 833, in script
-    Iv "Намагаються вигнати всіх перевертнів чи що?"
-OSError: Couldn't find file 'images/bg scene1.PNG'.
+While loading <renpy.display.im.Image object ('game/images/a01.png') at 0x0000000004e701c0>:
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 929, in script
+    "(CRENGE END)"
+OSError: Couldn't find file 'game/images/a01.png'.
 Resetting cache.
-Early init took 484.35s
+Early init took 5594.75s
+Loading error handling took 0.05s
+Loading script took 0.39s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 929, in script
+    "(CRENGE END)"
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 2557, in execute
+    Say.execute(self)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 615, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\exports.py", line 1493, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\character.py", line 1394, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\character.py", line 1045, in do_display
+    display_say(who,
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\character.py", line 741, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\core.py", line 2165, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\core.py", line 2818, in interact_core
+    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\core.py", line 1352, in draw_screen
+    surftree = renpy.display.render.render_screen(
+  File "render.pyx", line 486, in renpy.display.render.render_screen
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\layout.py", line 900, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\layout.py", line 900, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\layout.py", line 900, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\transform.py", line 957, in render
+    return RenderTransform(self).render(width, height, st, at)
+  File "accelerator.pyx", line 978, in renpy.display.accelerator.RenderTransform.render
+  File "accelerator.pyx", line 413, in renpy.display.accelerator.RenderTransform.render_child
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\image.py", line 513, in render
+    return wrap_render(self.target, width, height, st, at)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\image.py", line 316, in wrap_render
+    rend = render(child, w, h, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\transform.py", line 957, in render
+    return RenderTransform(self).render(width, height, st, at)
+  File "accelerator.pyx", line 978, in renpy.display.accelerator.RenderTransform.render
+  File "accelerator.pyx", line 413, in renpy.display.accelerator.RenderTransform.render_child
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 626, in render
+    return cache.get(self, render=True)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 309, in get
+    surf = image.load()
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 761, in load
+    raise e
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\display\im.py", line 711, in load
+    filelike = renpy.loader.load(self.filename, directory="images")
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\loader.py", line 672, in load
+    raise IOError("Couldn't find file '%s'." % name)
+OSError: Couldn't find file 'mages/a01.png'.
+
+While loading <renpy.display.im.Image object ('/mages/a01.png') at 0x0000000004eb5ee0>:
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 929, in script
+    "(CRENGE END)"
+OSError: Couldn't find file 'mages/a01.png'.
+Resetting cache.
+Early init took 5602.82s
 Loading error handling took 0.02s
-Loading script took 0.43s
+Loading script took 0.31s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.14s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.05s
+Save screen analysis took 0.06s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5892.78s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5944.14s
+Loading error handling took 0.02s
+Loading script took 0.54s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5978.47s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6006.50s
+Loading error handling took 0.02s
+Loading script took 0.49s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6048.41s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6078.25s
+Loading error handling took 0.02s
+Loading script took 0.56s
 Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6090.89s
+Loading error handling took 0.03s
+Loading script took 0.47s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.05s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6145.28s
+Loading error handling took 0.03s
+Loading script took 0.33s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.16s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6173.74s
+Loading error handling took 0.04s
+Loading script took 0.64s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6344.57s
+Loading error handling took 0.02s
+Loading script took 0.39s
+Loading save slot metadata took 0.11s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.05s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 10284.81s
+Loading error handling took 0.02s
+Loading script took 0.29s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 10328.19s
+Loading error handling took 0.02s
+Loading script took 0.33s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.05s
+Analyze and compile ATL took 0.02s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.16s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.10s
+Save screen analysis took 0.05s
+Prepare screens took 0.21s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 10655.51s
+Loading error handling took 0.03s
+Loading script took 0.62s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 993, in script
+    jump end
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 1698, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'end'.
+
+While running game code:
+  File "game/script.rpy", line 676, in script call
+    call change_cringe_points(+2)
+  File "game/script.rpy", line 993, in script
+    jump end
+ScriptError: could not find label 'end'.
+Resetting cache.
+Early init took 10719.49s
+Loading error handling took 0.02s
+Loading script took 0.26s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 993: expected statement.
+    exit
+        ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 10963.66s
+Loading error handling took 0.02s
+Loading script took 0.25s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 994: expected statement.
+    exit
+        ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 10966.86s
+Loading error handling took 0.02s
+Loading script took 0.27s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 994: expected statement.
+    exit
+        ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 10988.17s
+Loading error handling took 0.02s
+Loading script took 0.30s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 11128.13s
+Loading error handling took 0.03s
+Loading script took 0.39s
+Loading save slot metadata took 0.08s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.06s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 11202.39s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.24s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.12s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.05s
+Prepare screens took 0.29s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 11245.83s
+Loading error handling took 0.02s
+Loading script took 0.33s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 11611.59s
+Loading error handling took 0.02s
+Loading script took 0.37s
+Loading save slot metadata took 0.08s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.17s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12035.61s
+Loading error handling took 0.02s
+Loading script took 0.27s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 57: end of line expected.
+    with moveinleft 0.5
+                    ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.17s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12047.90s
+Loading error handling took 0.02s
+Loading script took 0.31s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.05s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12054.42s
+Loading error handling took 0.02s
+Loading script took 0.40s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.05s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12142.84s
+Loading error handling took 0.02s
+Loading script took 0.35s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 57: end of line expected.
+    with moveinleft=0.5
+                   ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.18s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12264.19s
+Loading error handling took 0.02s
+Loading script took 0.24s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 57: transform statement expects a non-empty block.
+    transform left_to_right:
+                            ^
+
+File "game/script.rpy", line 58: expected statement.
+    xalign 0.0
+            ^
+
+File "game/script.rpy", line 59: expected statement.
+    linear 2.0 xalign 1.0
+            ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12347.66s
+Loading error handling took 0.02s
+Loading script took 0.31s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12369.97s
+Loading error handling took 0.02s
+Loading script took 0.31s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12519.14s
+Loading error handling took 0.02s
+Loading script took 0.34s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12527.08s
+Loading error handling took 0.03s
+Loading script took 0.38s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.11s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.07s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12613.93s
+Loading error handling took 0.02s
+Loading script took 0.37s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 66, in script
+    with moveinright((0.5, 1.0, 0.5, 1.0), 1.5, dist=10)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 1356, in execute
+    trans = renpy.python.py_eval(self.expr)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 66, in <module>
+    with moveinright((0.5, 1.0, 0.5, 1.0), 1.5, dist=10)
+TypeError: MoveTransition() got an unexpected keyword argument 'dist'
+
+While running game code:
+  File "game/script.rpy", line 66, in script
+    with moveinright((0.5, 1.0, 0.5, 1.0), 1.5, dist=10)
+  File "game/script.rpy", line 66, in <module>
+    with moveinright((0.5, 1.0, 0.5, 1.0), 1.5, dist=10)
+TypeError: MoveTransition() got an unexpected keyword argument 'dist'
+Resetting cache.
+Early init took 12631.26s
+Loading error handling took 0.02s
+Loading script took 0.29s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 66, in script
+    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\ast.py", line 1356, in execute
+    trans = renpy.python.py_eval(self.expr)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\Лена\Desktop\renpy-8.2.1-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 66, in <module>
+    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
+TypeError: MoveTransition() got an unexpected keyword argument 'dist'
+
+While running game code:
+  File "game/script.rpy", line 66, in script
+    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
+  File "game/script.rpy", line 66, in <module>
+    with moveinright((0.5, 1.0, 0.5, 1.0), dist=10)
+TypeError: MoveTransition() got an unexpected keyword argument 'dist'
+Resetting cache.
+Early init took 12643.81s
+Loading error handling took 0.02s
+Loading script took 0.36s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.11s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.06s
+Prepare screens took 0.23s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12710.47s
+Loading error handling took 0.02s
+Loading script took 0.29s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 57: expected statement.
+    linear 1.0 xalign .7
+            ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.24s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12721.23s
+Loading error handling took 0.02s
+Loading script took 0.24s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 57: end of line expected.
+    with linear 1.0 xalign .7
+                ^
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12725.92s
+Loading error handling took 0.02s
+Loading script took 0.17s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.19s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 12796.09s
+Loading error handling took 0.02s
+Loading script took 0.16s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.10s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 13448.08s
+Loading error handling took 0.02s
+Loading script took 0.38s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 13458.02s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 13497.32s
+Loading error handling took 0.02s
+Loading script took 0.45s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 13818.10s
+Loading error handling took 0.02s
+Loading script took 0.31s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 15896.93s
+Loading error handling took 0.03s
+Loading script took 0.43s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 15931.44s
+Loading error handling took 0.02s
+Loading script took 0.31s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.10s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.19s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16282.19s
+Loading error handling took 0.02s
+Loading script took 0.36s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.09s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16394.57s
+Loading error handling took 0.02s
+Loading script took 0.44s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16703.59s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.04s
 Loading persistent took 0.00s
 Running init code took 0.04s
 Loading analysis data took 0.02s
@@ -216,12 +2997,12 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.04s
+Init translation took 0.05s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.01s
 Save screen analysis took 0.03s
-Prepare screens took 0.16s
+Prepare screens took 0.14s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
@@ -240,16 +3021,696 @@ Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 492.39s
-Loading error handling took 0.02s
-Loading script took 0.13s
+Early init took 16707.08s
+Loading error handling took 0.03s
+Loading script took 0.17s
 Loading save slot metadata took 0.04s
 Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.14s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.06s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.20s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16776.21s
+Loading error handling took 0.02s
+Loading script took 0.37s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.03s
 Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16810.97s
+Loading error handling took 0.03s
+Loading script took 0.35s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16844.08s
+Loading error handling took 0.02s
+Loading script took 0.40s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16859.70s
+Loading error handling took 0.02s
+Loading script took 0.38s
+Loading save slot metadata took 0.08s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 16878.67s
+Loading error handling took 0.05s
+Loading script took 0.47s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17010.89s
+Loading error handling took 0.02s
+Loading script took 0.36s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.13s
+Loading analysis data took 0.08s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.14s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.20s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17032.88s
+Loading error handling took 0.02s
+Loading script took 0.44s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17037.77s
+Loading error handling took 0.02s
+Loading script took 0.42s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17059.81s
+Loading error handling took 0.02s
+Loading script took 0.45s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17124.71s
+Loading error handling took 0.02s
+Loading script took 0.47s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17148.63s
+Loading error handling took 0.02s
+Loading script took 0.31s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17194.20s
+Loading error handling took 0.03s
+Loading script took 0.44s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17239.38s
+Loading error handling took 0.02s
+Loading script took 0.42s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17297.76s
+Loading error handling took 0.02s
+Loading script took 0.34s
+Loading save slot metadata took 0.08s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17315.14s
+Loading error handling took 0.02s
+Loading script took 0.28s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
 Dump and make backups took 0.06s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
@@ -259,16 +3720,589 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.07s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17373.11s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17387.29s
+Loading error handling took 0.02s
+Loading script took 0.34s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.06s
+Running _start took 0.00s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17404.75s
+Loading error handling took 0.02s
+Loading script took 0.44s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17425.15s
+Loading error handling took 0.02s
+Loading script took 0.41s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17557.47s
+Loading error handling took 0.02s
+Loading script took 0.47s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17644.77s
+Loading error handling took 0.02s
+Loading script took 0.33s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.12s
 Build styles took 0.01s
-Load screen analysis took 0.05s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.24s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17701.22s
+Loading error handling took 0.02s
+Loading script took 0.17s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.05s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.07s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17711.87s
+Loading error handling took 0.02s
+Loading script took 0.14s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.03s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
 Prepare screens took 0.13s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
-Interface start took 0.06s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17737.55s
+Loading error handling took 0.02s
+Loading script took 0.46s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17753.19s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17770.73s
+Loading error handling took 0.02s
+Loading script took 0.36s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.11s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1620) drawable=(2880, 1620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 17836.20s
+Loading error handling took 0.02s
+Loading script took 0.44s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Лена\\AppData\\Roaming/RenPy/backups\\novel-zdybanka':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2880, 1800)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon Pro 450'
+Version: b'4.6.14761 Compatibility Profile Context FireGL 20.45.40.15 27.20.14540.15002'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2880, 1675) drawable=(2880, 1675)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 18541.61s
+Loading error handling took 0.02s
+Loading script took 0.17s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 2.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.09s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.09s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2880, 1800)

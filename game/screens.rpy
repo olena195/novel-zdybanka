@@ -353,7 +353,8 @@ screen main_menu():
     ## Це гарантує, що будь-який інший екран меню буде замінено.
     tag menu
 
-    add gui.main_menu_background
+    add gui.main_menu_background:
+        fit "contain"
 
     ## Ця порожня рамка затемнює головне меню.
     frame:
@@ -393,6 +394,7 @@ style main_menu_vbox:
     xmaximum 1200
     yalign 1.0
     yoffset -30
+    
 
 style main_menu_text:
     properties gui.text_properties("main_menu", accent=True)

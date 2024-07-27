@@ -18,7 +18,7 @@ define config.name = _("Zdybanka")
 ## Визначає, чи заголовок, наведений вище, відображається на екрані головного
 ## меню. Встановіть значення False, щоб приховати назву.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## Версія гри.
