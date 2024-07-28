@@ -198,7 +198,7 @@ init python:
     build.documentation('*.html')
     build.documentation('*.txt')
 
-    build.include_update = True
+    # build.include_update = True
 
 ## Для здійснення покупок у додатку потрібен ліцензійний ключ Google Play. Його
 ## можна знайти в консолі розробника Google Play у розділі "Монетизація" >
