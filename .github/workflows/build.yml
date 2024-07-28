@@ -25,7 +25,7 @@ jobs:
         id: build
         uses: ProjectAliceDev/renpy-build-action@master
         with:
-          sdk-version: '8.2.1'
+          sdk-version: '8.2.3'
           project-dir: '.'
           package: pc
         env:
