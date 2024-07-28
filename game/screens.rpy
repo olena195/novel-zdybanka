@@ -308,6 +308,9 @@ screen navigation():
 
         textbutton _("Завантажити") action ShowMenu("load")
 
+        textbutton _("Оновити гру") action updater.Update(url="https://github.com/olena195/novel-zdybanka/releases/latest/download/updates.json")
+
+
         textbutton _("Налаштування") action ShowMenu("preferences")
 
         if _in_replay:
