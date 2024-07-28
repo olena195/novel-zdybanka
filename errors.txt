@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 983: Line is indented, but the preceding ATL statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    ypos -100
-    ^
+File "game/script.rpy", line 60: ATL statement contains two expressions in a row; is one of them a misspelled property? If not, separate them with pass.
+    height "containe"
+                     ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Sat Jul 27 22:54:01 2024
+Sun Jul 28 17:36:19 2024

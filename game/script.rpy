@@ -54,7 +54,13 @@ label drink_menu:
 label intro:
     play music "a-jazz-piano-110481.mp3"
 
-    scene bg slide_game
+    scene bg slide_game:
+        fit "cover"
+        xoffset 0
+        xalign 0
+        linear 50:
+            xoffset 1.0
+            xalign 1.0
 
     "Ох, щось я трохи хвилююсь."
     "Так, потрібно терміново опанувати себе!"
@@ -929,7 +935,7 @@ label chapter1:
         "Так":
             pass
 
-    if luck_points > 30:
+    if luck_points >= 10:
         jump the_end_3
     else:
         jump the_end_4

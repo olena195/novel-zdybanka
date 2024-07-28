@@ -76,7 +76,7 @@ define gui.text_size = 41
 define gui.name_text_size = 45
 
 ## Розмір тексту в інтерфейсі користувача гри.
-define gui.interface_text_size = 33
+define gui.interface_text_size = 50
 
 ## Розмір міток в інтерфейсі користувача гри.
 define gui.label_text_size = 36
@@ -250,7 +250,7 @@ define gui.confirm_button_text_xalign = 0.5
 define gui.page_button_borders = Borders(15, 6, 15, 6)
 
 define gui.quick_button_borders = Borders(15, 6, 15, 0)
-define gui.quick_button_text_size = 21
+define gui.quick_button_text_size = 25
 define gui.quick_button_text_idle_color = gui.idle_small_color
 define gui.quick_button_text_selected_color = gui.accent_color
 
