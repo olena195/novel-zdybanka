@@ -23,7 +23,7 @@ define gui.show_name = False
 
 ## Версія гри.
 
-define config.version = "1.4"
+define config.version = "1.5"
 
 
 ## Текст, який розміщується на екрані інформації про гру. Поставте текст між
@@ -198,7 +198,7 @@ init python:
     build.documentation('*.html')
     build.documentation('*.txt')
 
-    # build.include_update = True
+    build.include_update = True
 
 ## Для здійснення покупок у додатку потрібен ліцензійний ключ Google Play. Його
 ## можна знайти в консолі розробника Google Play у розділі "Монетизація" >
