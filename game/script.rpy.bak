@@ -38,13 +38,13 @@ label change_drunk_points(value):
 label drink_menu:
     menu:
         "Пиво":
-            call change_drunk_points(+5) from _call_change_drunk_points
+            call change_drunk_points(+5)
         "Шампанське":
-            call change_drunk_points(+5) from _call_change_drunk_points_1
+            call change_drunk_points(+5)
         "Мартіні":
-            call change_drunk_points(+10) from _call_change_drunk_points_2
+            call change_drunk_points(+10)
         "Коньяк":
-            call change_drunk_points(+10) from _call_change_drunk_points_3
+            call change_drunk_points(+10)
         "Чай":
             pass
     return
@@ -159,7 +159,7 @@ label chapter1:
 
     # Десть тут після вибору вище треба додати ілюстрацію меню на весь екран. Якщо вдасться зробити його клікабельним - буде шикарно, ні - додати великоток на станди з Джоджо/персонажів-пончиків з ВП і ДД
     # (Ілюстрація Ів трохи в ахуї - далі 10% сором)
-    call change_cringe_points(+1) from _call_change_cringe_points
+    call change_cringe_points(+1)
 
 
     show st 9
@@ -174,7 +174,7 @@ label chapter1:
             show st 7
             Iv "Ой, так, хочу. Бо це був якийсь день відкритих дверей в дурдомі."
             St "Замов собі…"
-            call drink_menu from _call_drink_menu
+            call drink_menu
             show st 8
             Iv "Мені подобається. Саме те, що зараз потрібно."
 
@@ -203,9 +203,9 @@ label chapter1:
 
     menu:
         "Мені подобається":
-            call change_luck_points(+5) from _call_change_luck_points
+            call change_luck_points(+5)
         "Це не мій тип відпочинку":
-            call change_luck_points(-5) from _call_change_luck_points_1
+            call change_luck_points(-5)
             show st 16
             Iv "Шкода. Я люблю такий відпочинок на природі."
             Iv "Ну… Розумієш… Там так гарно і тихо."
@@ -285,9 +285,9 @@ label chapter1:
 
     menu:
         "Поки що":
-            call change_luck_points(+5) from _call_change_luck_points_2
+            call change_luck_points(+5)
         "Промовчати":
-            call change_luck_points(-5) from _call_change_luck_points_3
+            call change_luck_points(-5)
 
     show st 1_1
     Iv "О, а ось і наше замовлення!"
@@ -319,7 +319,7 @@ label chapter1:
 
     menu:
         "Соромлюсь":
-            call change_cringe_points(+2) from _call_change_cringe_points_1 
+            call change_cringe_points(+2) 
         "Ревную":
             pass
 
@@ -341,7 +341,7 @@ label chapter1:
 
     menu:
         "Тільки коли мені хтось дуже подобається":
-            call change_cringe_points(+2) from _call_change_cringe_points_2
+            call change_cringe_points(+2)
             Iv "І коли мені пора починати переживати?"
             St "В сенсі?"
             show st 13
@@ -381,7 +381,7 @@ label chapter1:
     show st 14
     Iv "Я, мабуть, візьму ще…"
 
-    call drink_menu from _call_drink_menu_1
+    call drink_menu
 
     show st 9
     St "Мені теж ще один келих, будь ласка."
@@ -400,9 +400,9 @@ label chapter1:
 
     menu:
         "Сильно":
-            call change_luck_points(-5) from _call_change_luck_points_4
+            call change_luck_points(-5)
         "Не дуже":
-            call change_luck_points(+5) from _call_change_luck_points_5
+            call change_luck_points(+5)
 
     show st 9
     St "Я приблизно чогось такого і очікував правду кажучи."
@@ -442,8 +442,8 @@ label chapter1:
 
     menu:
         "Ти досі іноді слухаєшся старших?":
-            call change_cringe_points(+2) from _call_change_cringe_points_3
-            call change_luck_points(+5) from _call_change_luck_points_6
+            call change_cringe_points(+2)
+            call change_luck_points(+5)
 
     pause
     show st 12_22
@@ -536,13 +536,13 @@ label chapter1:
 
     menu:
         "Тебе ж потрібно навпаки, ізолювати від чоловічої статі в такі періоди":
-            call change_cringe_points(+2) from _call_change_cringe_points_4
-            call change_luck_points(+5) from _call_change_luck_points_7
+            call change_cringe_points(+2)
+            call change_luck_points(+5)
             Iv "Ой, в такі моменти мені в мені скоріше прокидається бажання гризтись з усіма в тій кімнаті."
             Iv "Іноді так і стається. Але не з моєї ініціативи."
 
         "Та ні, залишу це питання на майбутнє":
-            call change_luck_points(-5) from _call_change_luck_points_8
+            call change_luck_points(-5)
             show st 16
             Iv "Шкода, але тиснути не буду."
             Iv "Поки що."
@@ -578,7 +578,7 @@ label chapter1:
 
     menu:
         "Замовник може трохи почекати":
-            call change_luck_points(+5) from _call_change_luck_points_9
+            call change_luck_points(+5)
         "Відповідай, це може бути терміново":
             jump the_end_2
     
@@ -629,9 +629,9 @@ label chapter1:
 
     menu:
         "Мені все подобається":
-            call change_luck_points(+5) from _call_change_luck_points_10
+            call change_luck_points(+5)
         "Мені трохи… незручно":
-            call change_luck_points(-5) from _call_change_luck_points_11
+            call change_luck_points(-5)
 
     Iv "Хех."
     Iv "Знаєш, до нашого знайомства я кілька разів звертав на тебе увагу в барі."
@@ -676,14 +676,14 @@ label chapter1:
     menu:
         "Не обов’язково":
             show st 9
-            call change_luck_points(-5) from _call_change_luck_points_12
+            call change_luck_points(-5)
             Iv "Мене вчили, що гостям дають найкраще."
             St "Якщо усіх так… гарно приймати, то ніяких… ресурсів не вистачить."
             Iv "Так і я не дуже гостинний."
 
         "Я б глянув, звідки у тебе хвіст росте":
-            call change_luck_points(+5) from _call_change_luck_points_13
-            call change_cringe_points(+2) from _call_change_cringe_points_5
+            call change_luck_points(+5)
+            call change_cringe_points(+2)
             show st 11_1
             Iv "Давай вийдемо у вбиральню, покажу."
             St "Та мені ж не шістнадцять років, щоб бігати у вбиральні за хлопцями і дивитись на їх… хвости."
@@ -740,11 +740,11 @@ label chapter1:
 
     menu:
         "Мабуть, то на краще":
-            call change_luck_points(-5) from _call_change_luck_points_14
+            call change_luck_points(-5)
             Iv "Навіть не знаю. Мені хотілось хоч раз їх комусь показати."
             Iv "Хоча… А ні, забудь."
         "Ніколи не бачив панталонну магію":
-            call change_luck_points(+5) from _call_change_luck_points_15
+            call change_luck_points(+5)
             Iv "Це дуже легко виправити."
 
     show st 5_1
@@ -792,10 +792,10 @@ label chapter1:
     Iv "Так. А має бути рука?"
     menu:
         "Я б не відмовився":
-            call change_luck_points(+5) from _call_change_luck_points_16
-            call change_cringe_points(+2) from _call_change_cringe_points_6
+            call change_luck_points(+5)
+            call change_cringe_points(+2)
         "Востаннє я щось таке робив років у шістнадцять":
-            call change_luck_points(-5) from _call_change_luck_points_17
+            call change_luck_points(-5)
     
     show st 5_1
     Iv "Не хвилюйся, я не зроблю нічого протизаконного."
@@ -813,9 +813,9 @@ label chapter1:
 
     menu:
         "Люблю, але не на людях":
-            call change_luck_points(-5) from _call_change_luck_points_18
+            call change_luck_points(-5)
         "Люблю. І приймати, і віддавати":
-            call change_luck_points(+5) from _call_change_luck_points_19
+            call change_luck_points(+5)
 
 
     show st 4_2
