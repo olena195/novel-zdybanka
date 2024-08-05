@@ -23,7 +23,7 @@ define gui.show_name = False
 
 ## Версія гри.
 
-define config.version = "1.9"
+define config.version = "1.10"
 
 
 ## Текст, який розміщується на екрані інформації про гру. Поставте текст між
@@ -165,7 +165,7 @@ define config.window_icon = "gui/window_icon.png"
 init python:
     build.change_icon_i686 = True 
     build.include_update = True
-
+    build.update_formats = [ "zsync" ]
 
     ## Наступні функції приймають шаблони файлів. Шаблони файлів не чутливі до
     ## регістру та зіставляються зі шляхом відносно основної теки, з / без нього
