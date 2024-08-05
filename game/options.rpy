@@ -23,7 +23,7 @@ define gui.show_name = False
 
 ## Версія гри.
 
-define config.version = "1.8"
+define config.version = "1.9"
 
 
 ## Текст, який розміщується на екрані інформації про гру. Поставте текст між
@@ -163,6 +163,9 @@ define config.window_icon = "gui/window_icon.png"
 ## Цей розділ керує тим, як Ren'Py перетворює ваш проєкт у файли розповсюдження.
 
 init python:
+    build.change_icon_i686 = True 
+    build.include_update = True
+
 
     ## Наступні функції приймають шаблони файлів. Шаблони файлів не чутливі до
     ## регістру та зіставляються зі шляхом відносно основної теки, з / без нього
@@ -199,7 +202,6 @@ init python:
     build.documentation('*.html')
     build.documentation('*.txt')
 
-    build.include_update = True
 
 ## Для здійснення покупок у додатку потрібен ліцензійний ключ Google Play. Його
 ## можна знайти в консолі розробника Google Play у розділі "Монетизація" >

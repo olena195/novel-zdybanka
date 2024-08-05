@@ -38,6 +38,6 @@ jobs:
         with:
           tag_name:  ${{ steps.build.outputs.version }}
           name: ${{ steps.build.outputs.version }}
-          files: ${{ steps.build.outputs.dir }}/*
+          files: ${{ steps.build.outputs.dir }}/**
 
       - run: curl -X POST ${{ secrets.BUILD_WEBSITE_WEBHOOK }}
